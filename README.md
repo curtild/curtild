@@ -1,5 +1,5 @@
 # 👋 Welcome To My Github Repositories!
-<img src="Analysis.png" height=150 width=1920>
+<img src="Analysis.png" height=250 width=1920>
 
 🔭 I’m currently working on building my SSRS projects repository. Stay tuned.
 
