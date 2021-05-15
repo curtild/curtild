@@ -5,7 +5,6 @@
 # <img src="/assets/images/avatar_transparent.jpg" width="95" height="90" style="border-radius:50%" alt="@curtild"> More About Me...
 
 <br/>
-
 #### I've worked for great employers over the years! Along the way, I've had the opportunity to work many kinds of projects requiring data analysis, data wrangling, report design, application development and training.
 
 #### As both freelancer and life-long learner, I continue to implement newer technologies to solve clients' needs. My strengths are analysis, strategy and business process streamlining. I believe in being resourceful enough to do more with less, using what you have to get by, whenever you need to. As you can afford greater solutions to solve your business challenges; level up! Cost-effective solutions provide lasting benefits. 
