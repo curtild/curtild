@@ -2,7 +2,7 @@
 <img src="/assets/images/officework.jpg" width="1000" height="450"/>
 <br/>
 
-# <img src="/assets/images/avatar_transparent.jpg" width="80" height="75" style="border-radius:50%" alt="@curtild">More About Me...
+# <img src="/assets/images/avatar_transparent.jpg" width="80" height="75" style="border-radius:50%" alt="@curtild">More About Me
 
 #### I've worked for great employers over the years! Along the way, I've had the opportunity to work many kinds of projects requiring data analysis, data wrangling, report design, application development and training.
 
