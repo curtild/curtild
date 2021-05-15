@@ -20,10 +20,10 @@
 
 ### You'll Find Sample SSRS Reports for:
 
-### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/EmployeeAnniversaries">Invoices</a>
+### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/EmployeeAnniversaries">Employee Anniversary Letters</a>
 ### - Purchase Orders
 ### - Sales Reports
-### - Employee Anniversary Letters
+### - Asset Tags w/ Barcodes
 ### - and more!
 
 
