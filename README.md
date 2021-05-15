@@ -1,5 +1,6 @@
 # 👋 Welcome To My Github Repositories!
-![](assets/images/officework.jpg =1000x450)
+<img src=.assets/images/officework.jpg width="1000" height="200" />
+<!--![](assets/images/officework.jpg =1000x450)-->
 
 <hr/>
 
