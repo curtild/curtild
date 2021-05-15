@@ -1,6 +1,7 @@
 # 👋 Welcome To My Github Repositories!
 <img src="/assets/images/officework.jpg" width="1000" height="450" />
 
+
 # <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/20559941?s=48&amp;v=4" width="48" height="48" alt="@curtild"> More About Me
 ### I've worked for great employers over the years! Along the way, I've had the opportunity to work many kinds of projects requiring data analysis, data wrangling, report design, application development and training.
 
