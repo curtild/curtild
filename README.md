@@ -1,4 +1,4 @@
-# <img src="/assets/images/Github.png" width="85" height="85"/> Welcome To My Github Repositories!
+# :wave: Welcome To My Github Repositories!
 <img src="/assets/images/officework.jpg" width="1000" height="450"/>
 
 
