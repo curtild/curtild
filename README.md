@@ -11,7 +11,7 @@
 # 👀 What's Housed Here?
 ### You'll soon find many different projects here. The more experience that I gain, I'll share. At present, I am transferring my projects to Github. I'll be filling my Github repos with more content as time goes on. Check in from time to time to see if there's anything of interest to you.
 
-# 👀 What's Available
+# 👀 What's Available Now
 ### SSRS Projects, with multiple examples like:
 - Invoices
 - Purchase Orders
