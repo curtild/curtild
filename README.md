@@ -4,7 +4,7 @@
 # More About Me
 ### I've worked for great employers over the years. Along the way, I've had the opportunity to work on many different kinds of projects requiring data analysis, ETL, report design and application development.
 
-### As a freelancer and life-long learner, I continue to learn and enjoy implementing new technologies to help solve existing needs. My strengths are in strategy and the streamlining of business processes. I believe in doing more for less, while using what you have to get by when you need to. As you can afford more, then scale higher. I beliee that cost-effective solutions provide a more lasting benefit. 
+### As a freelancer and life-long learner, I continue to learn and to implement new technologies to help solve clients' existing needs. My strengths are in analysis, strategy and the streamlining of business processes. I believe in doing more for less, using what you have to get by, when you need to. As you can afford more; scale higher! I believe that the use of cost-effective solutions provide lasting benefits. 
 
 ### I'll be filling my Github repos with more content as time goes on. Check in from time to time to see if there's anything of interest to you.
 
