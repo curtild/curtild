@@ -2,7 +2,7 @@
 <img src="/assets/images/officework.jpg" width="1000" height="450"/>
 <br/>
 
-# <a href="#"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/20559941?s=48&amp;v=4" width="68" height="68" style="border-radius:50%"  alt="@curtild"> </a> More About Me
+# <a href="#"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/20559941?s=48&amp;v=4" width="58" height="58" style="border-radius:50%"  alt="@curtild"> </a> More About Me
 
 #### I've worked for great employers over the years! Along the way, I've had the opportunity to work many kinds of projects requiring data analysis, data wrangling, report design, application development and training.
 
