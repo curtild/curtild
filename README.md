@@ -18,7 +18,7 @@
 ## <em>Which Projects are Available Right Now?</em>
 
 ### You'll Find Sample SSRS Reports for:
-#### <em>Temporarily Closed for Updates. Sorry.</em>
+#### <em>(Temporarily Closed for Updates. Sorry...)</em>
 ### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/EmployeeAnniversaries">Employee Anniversary Letters</a>
 ### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/PurchaseOrders">Purchase Orders w/ QR Codes</a>
 ### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/Sales">Sales Reports</a>
