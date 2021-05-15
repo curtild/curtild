@@ -21,9 +21,9 @@
 ### You'll Find Sample SSRS Reports for:
 
 ### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/EmployeeAnniversaries">Employee Anniversary Letters</a>
-### - Purchase Orders
+### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/PurchaseOrders">Purchase Orders w/ QR Codes</a>
 ### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/Sales">Sales Reports</a>
-### - Asset Tags w/ Barcodes
+### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/AssetTags">Asset Tags w/ QR Codes</a>
 ### - and more!
 
 
