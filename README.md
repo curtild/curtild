@@ -1,8 +1,10 @@
 # 👋 Welcome To My Github Repositories!
 <img src="/assets/images/officework.jpg" width="1000" height="450" />
 
-# About Me
+# More About Me
+## I've worked for notable employers throughout the years. I've had the opportunity to work on many different kinds of projects requiring data analysis, report development and computer programming. As a life-long learner, I continue to enjoy learning newer technologies to help solve an existing need. My strengths are in strategy and streamlining of business processes. I believe in doing more for less, and using what you have to get by when you need to. As you can afford more, scale higher. Cost-effective solutions provide lasting benefit. 
 
+## I'll be filling my Github repos with more content as time goes on. Check in from time to time to see if there's anything of interest to you.
 
 
 
