@@ -11,11 +11,11 @@
 ### As both freelancer and a life-long learner, I continue to implement effective technologies to meet clients' needs. My strengths are analysis, strategy and business process streamlining. I believe an organization should be resourceful enough to do more with less, using what you can to get by, whenever you need to. As you can afford better solutions to solve business challenges — level up! You'll find cost-effective solutions provide longer lasting benefits. 
 
 
-## What's Housed Here?
+## <em>What's Housed Here?</em>
 ### You'll soon find many different projects here. At present, I am transferring my projects to Github. I'll be filling my Github repos with more content as time goes on. Check in from time to time to see if there's anything of interest to you.
 
 
-## Which Projects are Available Right Now?
+## <em>Which Projects are Available Right Now?></em>
 <img src="/assets/images/SSRS_logo.png" width="200" height="65"/>
 
 ### You'll Find Sample SSRS Reports for:
