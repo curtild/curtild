@@ -2,10 +2,10 @@
 <img src="/assets/images/officework.jpg" width="1000" height="450"/>
 <br/>
 
-# <a href="#"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/20559941?s=48&amp;v=4" width="30" height="30" style="border-radius:50%" alt="@curtild"></a> More About Me
+# <a href="#"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/20559941?s=48&amp;v=4" width="38" height="38" style="border-radius:50%" alt="@curtild"></a> More About Me
 ### I've worked for great employers over the years! Along the way, I've had the opportunity to work many kinds of projects requiring data analysis, data wrangling, report design, application development and training.
 
-### As both freelancer and life-long learner, I continue to learn and implement newer technologies to solve a client's need. My strengths are analysis, strategy and business process streamlining. I believe in being resourceful enough to do more with less, using what you have to get by, whenever you need to. As you can afford greater solutions to solve your business challenges; level up! Cost-effective solutions provide lasting benefits. 
+### As both freelancer and life-long learner, I continue to implement newer technologies to solve clients' needs. My strengths are analysis, strategy and business process streamlining. I believe in being resourceful enough to do more with less, using what you have to get by, whenever you need to. As you can afford greater solutions to solve your business challenges; level up! Cost-effective solutions provide lasting benefits. 
 
 ### I'll be filling my Github repos with more content as time goes on. Check in from time to time to see if there's anything of interest to you.
 
