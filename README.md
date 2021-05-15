@@ -16,7 +16,7 @@
 
 
 ## 👀 Which Projects are Available Right Now?
-<img src="/assets/images/SSRS_logo.png" width="450" height="250"/>
+<img src="/assets/images/SSRS_logo.png" width="250" height="250"/>
 ### SSRS Projects, with multiple examples like:
 - Invoices
 - Purchase Orders
