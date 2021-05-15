@@ -1,5 +1,5 @@
 # 👋 Welcome To My Github Repositories!
-<img src="assets/images/office work.jpg" height=400 width=1000>
+<img src="/assets/images/office work.jpg" height=400 width=1000>
 
 <hr/>
 
