@@ -1,9 +1,9 @@
 ## 👋  <em>Welcome To My Github Workspace!</em>
-<img src="/assets/images/officework.jpg" width="1000" height="370"/>
+<img src="/assets/images/officework.jpg" width="1000" height="400"/>
 
 
-## 👀 About Me
-<img src="/assets/images/Analysis.png" width="450" height="250"/>
+## <em>About Me</em>
+<img src="/assets/images/Analysis.png" width="500" height="250"/>
 
 #### I've worked for great employers over the years! Along the way, I've had the opportunity to work many projects requiring data analysis, data wrangling, report development, application development and training.
 
@@ -18,7 +18,7 @@
 ## Which Projects are Available Right Now?
 <img src="/assets/images/SSRS_logo.png" width="200" height="65"/>
 
-#### SSRS Projects for:
+#### You'll Find Sample SSRS Projects for:
 
 - Invoices
 - Purchase Orders
