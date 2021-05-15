@@ -2,9 +2,9 @@
 <img src="/assets/images/officework.jpg" width="1000" height="450" />
 
 # More About Me
-### I've worked for great employers over the years. Along the way, I've had the opportunity to work on many different kinds of projects requiring data analysis, ETL, report design and application development.
+### I've worked for great employers over the years! Along the way, I've had the opportunity to work many kinds of projects requiring data analysis, data wrangling, report design, application development and training.
 
-### As a freelancer and life-long learner, I continue to learn and to implement new technologies to help solve clients' existing needs. My strengths are in analysis, strategy and the streamlining of business processes. I believe in doing more for less, using what you have to get by, when you need to. As you can afford more; scale higher! I believe that the use of cost-effective solutions provide lasting benefits. 
+### As both freelancer and life-long learner, I continue to learn and implement newer technologies to solve a client's need. My strengths are analysis, strategy and business process streamlining. I believe in being resourceful enough to do more with less, using what you have to get by, whenever you need to. As you can afford greater solutions to solve your business challenges; level up! Cost-effective solutions provide lasting benefits. 
 
 ### I'll be filling my Github repos with more content as time goes on. Check in from time to time to see if there's anything of interest to you.
 
