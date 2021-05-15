@@ -5,10 +5,10 @@
 ## <em>About Me</em>
 <img src="/assets/images/Analysis.png" width="500" height="250"/>
 
-### I've worked for great employers over the years! Along the way, I've had the opportunity to work many projects requiring data analysis, data wrangling, report development, application development and training.
+### I've worked for great employers over the years! Along the way, I've had the opportunity to work many projects requiring data analysis, data wrangling, report development, application development and user training.
 
 
-### As both freelancer and a life-long learner, I continue to implement effective technologies to meet clients' needs. My strengths are analysis, strategy and business process streamlining. I believe an organization should be resourceful enough to do more with less, using what you can to get by, whenever you need to. As you can afford better solutions to solve business challenges — level up! You'll find cost-effective solutions provide longer lasting benefits. 
+### As both freelancer and life-long learner, I continue to implement effective technologies to meet clients' needs. My strengths are analysis, strategy, and business process streamlining. I believe an organization should be resourceful enough to do more with less, using what they can to get by, whenever needed. As they can afford better solutions to solve business challenges — level up! They typically find cost-effective solutions are of lasting benefit. 
 
 
 ## <em>What's Housed Here?</em>
