@@ -5,10 +5,10 @@
 ## <em>About Me</em>
 <img src="/assets/images/Analysis.png" width="500" height="250"/>
 
-### Hello! <a href="https://github.com/curtild">I'm Lynn Curtis.</a> I've worked for great employers over the years! In my career, I've had some awesome opportunities to work many successful projects requiring data analysis, data wrangling, metrics, report development, application development and user training. For the few projects that weren't a success, well, I learned a lot!
+### Hello! <a href="https://github.com/curtild">I'm Lynn Curtis</a>, and I've worked for great employers over the years! In my career, I've had some awesome opportunities to work many successful projects requiring data analysis, data wrangling, metrics, report development, application development and user training. For the few projects that weren't a success... well, let's just say I learned a lot!
 
 
-### As both freelancer and life-long learner, I continue to implement effective technologies to meet clients' needs. My strengths are analysis, strategy, and business process streamlining. I believe an organization should be resourceful enough to do more with less, using what they can to get by, whenever needed. As they can afford better solutions to solve business challenges — they should level up! Organizations typically find cost-effective solutions are of lasting benefit. 
+### As both freelancer and a life-long learner, I continue to implement effective technologies to meet client needs. My strengths are analysis, strategy, and business process streamlining. I believe an organization should be resourceful enough to do more with less, using what they can to get by, when or wherever needed. I've helped organizations maintain their budget, and solve business challenges. I've certainly helped them level up! Organizations typically find cost-effective solutions are of lasting benefit. Here in my Github workspace I'll share what I've learned.
 
 
 ## <em>What's Housed Here?</em>
