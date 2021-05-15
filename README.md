@@ -22,7 +22,7 @@
 
 ### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/EmployeeAnniversaries">Employee Anniversary Letters</a>
 ### - Purchase Orders
-### - Sales Reports
+### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/Sales">Sales Reports</a>
 ### - Asset Tags w/ Barcodes
 ### - and more!
 
