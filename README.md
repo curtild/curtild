@@ -16,6 +16,7 @@
 - Invoices
 - Purchase Orders
 - Sales Reports
+- Employee Anniversary Letters
 - and more!
 
 
