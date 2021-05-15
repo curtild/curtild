@@ -1,5 +1,5 @@
 # 👋 Welcome To My Github Repositories!
-<img src="office work.jpg" height=400 width=1920>
+<img src="office work.jpg" height=450 width=1920>
 
 🔭 I’m currently working on building my SSRS projects repository. Stay tuned.
 
