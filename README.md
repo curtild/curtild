@@ -18,7 +18,7 @@
 ## Which Projects are Available Right Now?
 <img src="/assets/images/SSRS_logo.png" width="200" height="65"/>
 
-#### You'll Find Sample SSRS Projects for:
+#### You'll Find Sample SSRS Reports for:
 
 - Invoices
 - Purchase Orders
