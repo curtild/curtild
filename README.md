@@ -1,7 +1,6 @@
 # 👋 Welcome To My Github Repositories!
 <img src="/assets/images/officework.jpg" width="1000" height="450" />
-
-<hr/>
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 
 
