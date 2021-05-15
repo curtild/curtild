@@ -16,7 +16,6 @@
 
 
 ## <em>Which Projects are Available Right Now?</em>
-<img src="/assets/images/SSRS_logo.png" width="200" height="65"/>
 
 ### You'll Find Sample SSRS Reports for:
 
