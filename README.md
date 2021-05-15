@@ -15,7 +15,7 @@
 ### You'll soon find many different projects here. At present, I am transferring my projects to Github. I'll be filling my Github repos with more content as time goes on. Check in from time to time to see if there's anything of interest to you.
 
 
-## <em>Which Projects are Available Right Now?></em>
+## <em>Which Projects are Available Right Now?</em>
 <img src="/assets/images/SSRS_logo.png" width="200" height="65"/>
 
 ### You'll Find Sample SSRS Reports for:
