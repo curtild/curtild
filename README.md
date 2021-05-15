@@ -3,7 +3,6 @@
 <br/>
 
 # <img src="/assets/images/avatar_transparent.jpg" width="95" height="90" style="border-radius:50%" alt="@curtild">More About Me...
-<br/>
 
 #### I've worked for great employers over the years! Along the way, I've had the opportunity to work many kinds of projects requiring data analysis, data wrangling, report design, application development and training.
 
