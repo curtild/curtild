@@ -3,7 +3,7 @@
 
 
 ## 👋 More About Me
-<img src="/assets/images/Analysis.png" width="450" height="300"/>
+<img src="/assets/images/Analysis.png" width="450" height="250"/>
 
 ### I've worked for great employers over the years! Along the way, I've had the opportunity to work many projects requiring data analysis, data wrangling, report development, application development and training.
 
@@ -15,8 +15,8 @@
 ### You'll soon find many different projects here. The more experience that I gain, I'll share. At present, I am transferring my projects to Github. I'll be filling my Github repos with more content as time goes on. Check in from time to time to see if there's anything of interest to you.
 
 
-## 👀 What's Available Right Now
-<img src="/assets/images/SSRSlogo.png" width="450" height="300"/>
+## 👀 Which Projects are Available Right Now?
+<img src="/assets/images/SSRS_logo.png" width="450" height="250"/>
 ### SSRS Projects, with multiple examples like:
 - Invoices
 - Purchase Orders
