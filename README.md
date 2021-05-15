@@ -1,5 +1,5 @@
 # 👋 Welcome To My Github Repositories!
-<img src="/assets/images/officework.jpg" width="1000" height="450" />
+<img src="/assets/images/officework.jpg" width="1000" height="450" style="border-radius:50%"/>
 <br/>
 
 # <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/20559941?s=48&amp;v=4" width="48" height="48" alt="@curtild"> More About Me
