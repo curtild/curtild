@@ -12,7 +12,7 @@
 
 
 ## <em>What's Housed Here?</em>
-### You'll soon find many different projects here. At present, I am transferring my projects to Github. I'll be filling my Github repos with more content as time goes on. Check in from time to time to see if there's anything of interest to you.
+### You'll soon find many different projects here. At present, I am transferring my projects to Github. I'll be filling my Github repos with more content as time goes by. Check in from time to time to see if there's anything of interest to you.
 
 
 ## <em>Which Projects are Available Right Now?</em>
@@ -20,11 +20,11 @@
 
 ### You'll Find Sample SSRS Reports for:
 
-- Invoices
-- Purchase Orders
-- Sales Reports
-- Employee Anniversary Letters
-- and more!
+### - Invoices
+### - Purchase Orders
+### - Sales Reports
+### - Employee Anniversary Letters
+### - and more!
 
 
 
