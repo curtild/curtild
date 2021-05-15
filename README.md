@@ -2,7 +2,7 @@
 <img src="/assets/images/officework.jpg" width="1000" height="450"/>
 <br/>
 
-# 💁 More About Me
+# :wave: More About Me
 
 ### I've worked for great employers over the years! Along the way, I've had the opportunity to work many kinds of projects requiring data analysis, data wrangling, report design, application development and training.
 
