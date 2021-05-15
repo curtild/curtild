@@ -4,7 +4,7 @@
 
 # :wave: More About Me
 
-### I've worked for great employers over the years! Along the way, I've had the opportunity to work many kinds of projects requiring data analysis, data wrangling, report development, application development and training.
+### I've worked for great employers over the years! Along the way, I've had the opportunity to work many projects requiring data analysis, data wrangling, report development, application development and training.
 
 ### As both freelancer and a life-long learner, I continue to implement effective technologies to meet clients' needs. My strengths are analysis, strategy and business process streamlining. I believe in being resourceful enough to do more with less, using what you can to get by, whenever you need to. As you can afford better solutions to solve business challenges — level up! You'll find cost-effective solutions provide longer lasting benefits. 
 
