@@ -2,7 +2,7 @@
 <img src="/assets/images/officework.jpg" width="1000" height="370"/>
 
 
-## 👀 More About Me
+## 👀 About Me
 <img src="/assets/images/Analysis.png" width="450" height="250"/>
 
 #### I've worked for great employers over the years! Along the way, I've had the opportunity to work many projects requiring data analysis, data wrangling, report development, application development and training.
