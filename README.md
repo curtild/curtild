@@ -14,6 +14,7 @@
 
 ### <em>Which Projects are Available Right Now?</em>
 ### <a href="https://github.com/curtild/SSRS-Projects/"><em>SSRS Sample Projects</em></a>
+### <a href="https://github.com/curtild/SQLPractice/"><em>SQLPractice Projects</em></a>
 ### Where you'll find sample SSRS reports for:
 #### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/EmployeeAnniversaries">Employee Anniversary Letters</a>
 #### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/PurchaseOrders">Purchase Orders w/ QR Codes</a>
