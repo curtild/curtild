@@ -13,7 +13,8 @@
 #### You'll soon find many different projects here. At present, I am transferring my projects to Github. I'll be filling my Github repos with more content as time goes by. Check in from time to time to see if there's anything of interest to you.
 
 ### <em>Which Projects are Available Right Now?</em>
-#### You'll Find Sample SSRS Reports for:
+#### <a href="https://github.com/curtild/SSRS-Projects/"><em>SSRS Sample Projects</em></a>
+#### Where you'll find sample SSRS reports for:
 #### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/EmployeeAnniversaries">Employee Anniversary Letters</a>
 #### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/PurchaseOrders">Purchase Orders w/ QR Codes</a>
 #### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/Sales">Sales Reports</a>
