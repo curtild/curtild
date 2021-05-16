@@ -10,7 +10,7 @@
 #### As a professional developer and life-long learner, I continue to implement effective technologies to meet client needs. My strengths are analysis, strategy, and business process streamlining. I believe an organization should be resourceful enough to do more with less, using what they can to get by, when or wherever needed. I've helped organizations maintain their budget while migrating to better platforms to solve their business problems. I've certainly helped them level up! Organizations I've worked for typically found cost-effective solutions were of lasting benefit. Here in my Github workspace I'll share what I've learned over the years.
 
 ### <em>What's Housed Here?</em>
-#### You'll soon find many different projects here. At present, I am transferring my projects to Github. I'll be filling my Github repos with more content as time goes by. Check in from time to time to see if there's anything of interest to you.
+#### You'll soon find many different projects here. At present, I am transferring my projects to Github. I'll be filling my Github repos with more content as time goes by. I'll also be out here working in collaboration on current projects. Check in from time to time to see if there's anything of interest to you.
 
 ### <em>Which Projects are Available Right Now?</em>
 #### <a href="https://github.com/curtild/SSRS-Projects/"><em>SSRS Sample Projects</em></a>
