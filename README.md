@@ -13,14 +13,14 @@
 ### You'll soon find many different projects here. At present, I am transferring my projects to Github. I'll be filling my Github repos with more content as time goes by. I'll also be out here working in collaboration on current projects. Check in from time to time to see if there's anything of interest to you.
 
 ## <em>Which Projects are Available Right Now?</em>
-#### <a href="https://github.com/curtild/SSRS-Projects/"><em>SSRS Sample Projects</em></a>
-#### <a href="https://github.com/curtild/SQLPractice/"><em>SQLPractice Projects</em></a>
+### <a href="https://github.com/curtild/SSRS-Projects/"><em>SSRS Sample Projects</em></a>
+### <a href="https://github.com/curtild/SQLPractice/"><em>SQLPractice Projects</em></a>
 ### You'll find sample SSRS reports and SQL for:
-#### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/EmployeeAnniversaries">Employee Anniversary Letters</a>
-#### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/PurchaseOrders">Purchase Orders w/ QR Codes</a>
-#### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/Sales">Sales Reports</a>
-#### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/AssetTags">Asset Tags w/ QR Codes</a>
-#### - and more!
+### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/EmployeeAnniversaries">Employee Anniversary Letters</a>
+### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/PurchaseOrders">Purchase Orders w/ QR Codes</a>
+### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/Sales">Sales Reports</a>
+### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/AssetTags">Asset Tags w/ QR Codes</a>
+### - and more!
 
 <!--
 **curtild/curtild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
