@@ -24,7 +24,7 @@ You'll soon find many different projects here. At present, I am transferring my 
 #### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/PurchaseOrders">Purchase Orders w/ QR Codes</a>
 #### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/Sales">Sales Reports</a>
 #### - <a href="https://github.com/curtild/SSRS-Projects/tree/master/AssetTags">Asset Tags w/ QR Codes</a>
-#### - and more!
+ - and more!
 
 <!--
 **curtild/curtild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
